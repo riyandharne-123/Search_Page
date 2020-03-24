@@ -1,0 +1,20 @@
+#nav_element{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: white;
+    
+}
+
+.input_form{
+    text-align: center;
+    padding-top: 200px;
+  
+}
+.form-group{
+    margin-top: auto;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+body{
+  background-image: url("0d9b24189f42fb3f2563ef854b41ab0f.png");
+}
